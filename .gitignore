@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+
+# Logs y archivos temporales
+logs
+*.log
+npm-debug.log*
+
+# Entorno específico
+.env
+
+# Dependencias locales
+/.pnp
+.pnp.js
+
+# Construcción de archivos
+/build/
+/dist/
+
+# Dependencias de desarrollo
+/devDependencies
+
+# Carpetas generadas en la construcción
+/.cache/
+/public/
+
+# Algunos archivos específicos
+.DS_Store
+Thumbs.db

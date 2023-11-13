@@ -29,7 +29,8 @@ La Pizarra Interactiva es una aplicación web simple que te permite dibujar y co
 ## Instalación y Ejecución
 
 1. Clona este repositorio.
-2. Ejecuta el comando `node index.js` para iniciar el servidor en el puerto `8082`.
+2. Instalar dependencias `npm i`.
+3. Ejecuta el comando `node index.js` para iniciar el servidor en el puerto `8082`.
 
 ## Contribuciones
 
